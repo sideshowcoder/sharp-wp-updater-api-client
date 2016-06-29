@@ -1,3 +1,8 @@
 source https://nuget.org/api/v2
 
+nuget FAKE
+nuget FSharp.Core
 nuget FSharp.Data
+nuget NUnit
+nuget NUnit.Console
+nuget FSUnit

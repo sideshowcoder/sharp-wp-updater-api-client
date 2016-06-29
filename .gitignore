@@ -1,5 +1,8 @@
 .paket/paket.exe
 packages
 client.exe
-
-
+.fake/**/*
+TestResult.xml
+build/**/*
+deploy/**/*
+src/*/bin/**/*
