@@ -6,3 +6,4 @@ TestResult.xml
 build/**/*
 deploy/**/*
 src/*/bin/**/*
+src/*/obj/**/*
